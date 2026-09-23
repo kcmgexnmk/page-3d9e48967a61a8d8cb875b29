@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "02392799cd95d6ac31b852e9",
+  "owner": "kcmgexnmk",
+  "repo": "page-3d9e48967a61a8d8cb875b29",
+  "title": "云帆",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3d9e48967a61a8d8cb875b29",
+      "a": "云帆",
+      "b": "2027最新官网",
+      "entity": "云帆",
+      "brand": "云帆",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "155966d380c6686450f281a2260e3c744845d5faf3a9ff87f980e9198a68b4d8",
+      "content": {
+        "primary_entity": "云帆",
+        "keyword1": "云帆",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "云帆客户端覆盖常见桌面与移动平台，按设备选择对应版本完成订阅导入。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "前往客户端下载页获取对应版本，导入订阅即可开始使用云帆。",
+          "AI_CLOSING_TITLE": "开始云帆之旅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付价格从 ¥15 到 ¥85，按年付可享相应优惠。基础版适合轻度使用，旗舰版兼顾流媒体与游戏加速，团队版面向多设备协作场景。客户端覆盖桌面与移动端，按设备选择对应版本并导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从套餐配置、设备数量到订阅周期，三项特点帮助快速判断适合的方案。",
+          "AI_FEATURES_TITLE": "选择云帆的实用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台，团队版每月 1000GB 支持 20 台，按在线设备数匹配档位。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，适合日常观影和低延迟对战需求。",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，按年付价格更划算，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850。",
+          "AI_FEATURE_TITLE_1": "套餐按设备数匹配",
+          "AI_FEATURE_TITLE_2": "流媒体与游戏优化",
+          "AI_FEATURE_TITLE_3": "月付与年付灵活选",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到配置订阅的流程。",
+          "AI_GUIDE_TITLE": "云帆使用指引",
+          "AI_HERO_INTRO": "云帆提供基础版、旗舰版与团队版三档订阅，覆盖从个人轻量使用到多设备团队协作的场景，客户端支持桌面与移动平台，按设备选择版本并导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数选择",
+          "AI_HIGHLIGHT_2": "旗舰版含流媒体与游戏优化",
+          "AI_HIGHLIGHT_3": "年付价格更划算",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量和在线设备数对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和同时在线设备数，在基础版、旗舰版与团队版中选择一档套餐。",
+          "AI_STEP_TEXT_2": "确认设备数量、流媒体解锁与游戏加速等适配要求，旗舰版与团队版提供更完整的节点资源。",
+          "AI_STEP_TEXT_3": "按设备类型下载对应客户端，依照客户端文档导入订阅信息并完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "云帆订阅方案",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机和电脑轻量使用；旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线适合游戏与流媒体；团队版每月 1000GB、支持 20 台设备，适合多人协作。",
+          "AI_FAQ_ANSWER_2": "同一时间在线设备数取决于套餐，基础版 3 台、旗舰版 5 台、团队版 20 台。切换设备前先退出旧设备上的客户端，避免超出限制。",
+          "AI_FAQ_ANSWER_3": "常见桌面与移动系统均有对应客户端，例如 Windows、macOS、Android 和 iOS。安装后从客户端内导入订阅链接，具体步骤参考对应客户端的使用文档。",
+          "AI_FAQ_ANSWER_4": "年付比月付更划算，基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。长期使用建议选择年付，短期测试可先按月付费。",
+          "AI_FAQ_ANSWER_5": "旗舰版和团队版提供优先或专属支持，常规问题可通过工单反馈。订阅导入异常时先确认客户端版本和订阅链接是否完整复制。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "一个账号能同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "不同设备应该使用哪个客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "遇到订阅导入问题怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kaliyunjc.com",
+    "host": "kaliyunjc.com"
+  },
+  "file_hashes": {
+    "index.html": "1d7c745efd5c6c51cb01584fb05d33ec58e4adb1db89e17a30068f8cb670ad72",
+    "sitemap.xml": "4ee854c7002d6b7459568b26799d71f3d25ce2fee76c6c4489aab993f586580e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a7322bce2236e2d2c4363c8856bfb4cdbd541a6b3e1fd454a6e4d000cb826ecf",
+    "robots.txt": "989dbced6e896ab159735d28e8aa21faac2e824f81daed608d28a4a2cf51d4de",
+    "87fc31785e95e6c43a2b65cd892e1122.txt": "685d3d9fe44474dcc54f28b4cddc0239fe62c86ceb4b575185dddd557c9489ef"
+  },
+  "revision": "2adf73dc9980bcf5c89ffac7432aa66fd0cb5b56c140126e5b6f4d558f35c3f2"
+}
